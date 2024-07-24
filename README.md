@@ -1,1 +1,1 @@
-Ссылка на проект <a href="https://yanazuhova.github.io/CpsProject2/">CPS</a>
+Ссылка на проект <a href="https://yanazuhova.github.io/CPSproject2/">CPS</a>
